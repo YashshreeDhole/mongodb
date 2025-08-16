@@ -1,7 +1,7 @@
 This repository contains a Jupyter Notebook that demonstrates working with MongoDB using the PyMongo library in Python.  
 It covers various database operations through practical examples.
 
-## Contents
+Contents
 The notebook includes:
 1. Installing PyMongo  
 2. User Input – inserting data into collections  
@@ -13,7 +13,7 @@ The notebook includes:
 8. Add & Delete Documents – inserting and removing data  
 9. Greater Than Salary Query – filtering based on conditions  
 
-## Requirements
+Requirements
 - Python 3.x
 - Jupyter Notebook
 - MongoDB installed and running
